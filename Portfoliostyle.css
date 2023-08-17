@@ -1,0 +1,13 @@
+
+*{font-family: Georgia, serif;}
+.pl10{padding-left: 10px;}
+.pt10{padding-top 10px}
+.pt50{padding-top: 50px;}
+.textsize12{font-size: 12px;}
+.greenback{background-color: rgb(188, 243, 188);}
+body {
+    color:purple;
+  }
+.tab8 {tab-size:2cm;}
+a {color:purple}
+a:hover{ font-style: italic}
